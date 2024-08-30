@@ -1,0 +1,89 @@
+header{
+    background-image: url(https://t4.ftcdn.net/jpg/00/65/48/25/360_F_65482539_C0ZozE5gUjCafz7Xq98WB4dW6LAhqKfs.jpg);
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 80vh;
+    
+}
+span{
+    color: darkred;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 30px;
+    position: fixed;
+}
+
+#raju{
+    float:right;
+    padding-right: 1100x;
+    padding-top: 10px;
+    position: fixed;
+    /* float: inline-end; */
+}
+a{
+    color: rgb(0, 128, 122);
+    text-decoration: none;
+    position: fixed;
+    padding-left: 1300px;
+}
+#surya{
+    color: rgb(207, 220, 20);
+    padding-left: 20px;
+    font-size: 50px;
+    padding-top: 40px;
+}
+#karna{
+    color: rgb(139, 61, 75);
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+button{
+    font-size: 20px;
+    color: rgb(82, 17, 174);
+    border-radius: 20px;
+    margin-left: 20px;
+}
+button:hover{
+    background-color: rgb(244, 74, 13);
+    cursor: pointer;
+}
+.suchi{
+    color: darkorange;
+    font-size: 30px;
+}
+#b{
+    display: flex;
+}
+ #a{
+    width: 300px;
+    padding: 0px;
+    border:2px solid yellow;
+    text-align: center;
+    margin-top: 15px;
+    margin:0px 100px;
+
+ 
+ }
+ img{
+    width:300px;
+
+ }
+ #c{
+    display: flex;
+    gap: 150px;
+    background-color: aqua;
+ }
+    
+#d{
+    color: darkorchid;
+    font-size: 20px;
+    padding: 0px 50px;
+    padding-right: 200px;
+}
+h4{
+    color: black    ;
+}
+ 
